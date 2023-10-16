@@ -1,0 +1,18 @@
+.form {
+    font-size: 20px;
+    position: relative;
+  }
+  
+  .send {
+    position: absolute;
+    bottom: 10px;
+    right: 5px;
+    background-image: url('free-icon-sent-8051360.png');
+    background-position: center;
+    background-size: cover;
+    padding: 20px;
+  }
+  
+  textarea {
+    width: 300px;
+  }
